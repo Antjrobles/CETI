@@ -66,3 +66,17 @@ A continuación se listan las asignaturas del curso junto con sus respectivos pr
 | UNIDAD 3 | Detección y corrección de vulnerabilidades de aplicaciones web                | 9 de ene. de 2026 - 5 de feb. de 2026   |
 | UNIDAD 4 | Detección de problemas de seguridad en aplicaciones para dispositivos móviles | 6 de feb. de 2026 - 24 de feb. de 2026  |
 | UNIDAD 5 | Implantación de sistemas seguros de desplegado de software                    | 25 de feb. de 2026 - 25 de mar. de 2026 |
+
+
+
+<br>
+<br>
+
+---
+
+# FECHA DE PRUEBAS PRESENCIALES
+Para las pruebas presenciales se han dispuesto dos periodos:
+
+| Ordinaria               | Extraordinaria       |
+| :--------------------- | :------------------ |
+| 14 al 16 de abril de 2026| 1 al 3 de junio de 2026 |
